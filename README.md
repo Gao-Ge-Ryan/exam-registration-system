@@ -15,7 +15,7 @@
 - 管理端：[admin.enrollpro.top](http://admin.enrollpro.top)
 
 
-账号：123@qq.com 密码：Hh123@qqcom
+账号：3300755918@qq.com 密码：enrollpro321
 
  **[Enroll Pro 可定制化报名系统用户手册V1.0](https://github.com/Gao-Ge-Ryan/exam-apply-system-publish/blob/main/Enroll%20Pro%20%E5%8F%AF%E5%AE%9A%E5%88%B6%E5%8C%96%E6%8A%A5%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8CV1.0.pdf)**
 
